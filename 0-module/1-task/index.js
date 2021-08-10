@@ -1,3 +1,3 @@
-function sum(m, n) {
+function sum(m, n) { // Повторный пел реквест
   return m + n;
 }
