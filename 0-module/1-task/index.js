@@ -1,3 +1,3 @@
-function sum(m, n) { // Повторный пел реквест
+function sum(m, n) { // Pull Request Again
   return m + n;
 }
